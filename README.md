@@ -1,2 +1,2 @@
 # oficina
-tabelas dados e queries de dados ficticios de uma ofinica mecânica
+tabelas dados e queries de dados ficticios de uma ofinica mecânica conforme desafio proposto pelo bootcamp DIO
